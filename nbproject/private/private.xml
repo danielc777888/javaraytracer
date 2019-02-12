@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/C:/Projects/Honours2005/Graphics/JavaRayTracer/src/Camera.java</file>
+        <file>file:/C:/Projects/Honours2005/Graphics/JavaRayTracer/src/Cube.java</file>
+        <file>file:/C:/Projects/Honours2005/Graphics/JavaRayTracer/src/Intersect.java</file>
+        <file>file:/C:/Projects/Honours2005/Graphics/JavaRayTracer/src/Light.java</file>
+        <file>file:/C:/Projects/Honours2005/Graphics/JavaRayTracer/src/Material.java</file>
+        <file>file:/C:/Projects/Honours2005/Graphics/JavaRayTracer/src/Matrix.java</file>
+        <file>file:/C:/Projects/Honours2005/Graphics/JavaRayTracer/src/PerformanceTimer.java</file>
+        <file>file:/C:/Projects/Honours2005/Graphics/JavaRayTracer/src/Plane.java</file>
+        <file>file:/C:/Projects/Honours2005/Graphics/JavaRayTracer/src/PointLight.java</file>
+        <file>file:/C:/Projects/Honours2005/Graphics/JavaRayTracer/src/RGBColour.java</file>
+        <file>file:/C:/Projects/Honours2005/Graphics/JavaRayTracer/src/Ray.java</file>
+        <file>file:/C:/Projects/Honours2005/Graphics/JavaRayTracer/src/RayTracer.java</file>
+        <file>file:/C:/Projects/Honours2005/Graphics/JavaRayTracer/src/Scene.java</file>
+        <file>file:/C:/Projects/Honours2005/Graphics/JavaRayTracer/src/SceneObject.java</file>
+        <file>file:/C:/Projects/Honours2005/Graphics/JavaRayTracer/src/Sphere.java</file>
+        <file>file:/C:/Projects/Honours2005/Graphics/JavaRayTracer/src/Transformable.java</file>
+        <file>file:/C:/Projects/Honours2005/Graphics/JavaRayTracer/src/Triangle.java</file>
+        <file>file:/C:/Projects/Honours2005/Graphics/JavaRayTracer/src/Vector3D.java</file>
+        <file>file:/C:/Projects/Honours2005/Graphics/JavaRayTracer/test/MatrixTest.java</file>
+        <file>file:/C:/Projects/Honours2005/Graphics/JavaRayTracer/test/SphereTest.java</file>
+    </open-files>
+</project-private>
