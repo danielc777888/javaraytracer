@@ -8,7 +8,7 @@ import junit.framework.*;
 
 /**
  *
- * @author Gething
+ * @author daniel cabral
  */
 public class Vector3DTest extends TestCase {
     
